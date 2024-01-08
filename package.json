@@ -1,6 +1,6 @@
 {
-	"author": "Prabod Kavinda",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Prabod Kavinda",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
